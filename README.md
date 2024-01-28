@@ -8,5 +8,5 @@ NOTE: You may need to configure `save_file` (line 49) according to your own requ
 
 ## Implementation
 
-- Navigate to `src`, then run `python3 NotePad.py` in a terminal if you have Mac/Linux.
 - Navigate to `src`, then run `python NotePad.py` in a terminal if you have Windows.
+- Navigate to `src`, then run `python3 NotePad.py` in a terminal if you have Mac/Linux.
